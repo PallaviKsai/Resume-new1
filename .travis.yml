@@ -6,7 +6,7 @@ node_js:
   - "stable"
 addons:
   sonarcloud:
-    organization: "PallaviKsai"
+    organization: "pallaviksai-github"
     token:
       secure: "4dff8f6b8c25b095d33e0906f68118fa17de71f5"
   sauce_connect:
